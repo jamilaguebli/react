@@ -1,0 +1,18 @@
+form{
+    background-color:black;
+    padding-left: 400px;
+    padding-right: 400px;
+   
+   
+}
+button{
+   width: 150px;
+
+}
+.message{
+    color: rgb(193, 37, 37);
+}
+.name{
+    color: white;
+}
+
